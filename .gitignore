@@ -1,0 +1,10 @@
+#IntelliJ
+**/.idea/
+**/*.iml
+**/target
+
+#Maven
+target/
+
+lib/**/*.jar
+*.jar
