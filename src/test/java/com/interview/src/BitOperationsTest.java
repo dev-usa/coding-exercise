@@ -65,7 +65,5 @@ public class BitOperationsTest {
         Assert.assertEquals("29th", bitOps.formatWithOrdinals((byte) 29));
         Assert.assertEquals("22nd", bitOps.formatWithOrdinals((byte) 22));
         Assert.assertEquals("13th", bitOps.formatWithOrdinals((byte) 13));
-
-        System.out.println((byte)(1 << 7));
     }
 }
